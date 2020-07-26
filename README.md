@@ -17,6 +17,8 @@ I'm working on a telegram bot that can upload files sent to it to AWS or Google 
 
 ## Contact me
 
-Follow me on [twitter](https://www.twitter.com/rengler33) if you want to learn about automating with software!
+Follow me on [twitter](https://www.twitter.com/rengler33) if you want to learn about automating with code!
 
 The best way to contact me is on twitter or through e-mail: rengler33@gmail.com
+
+There's also my [LinkedIn](https://www.linkedin.com/in/rengler33/)
