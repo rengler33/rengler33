@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**rengler33/rengler33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm an analyst and aspiring software engineer who loves to code.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [workout-mp3-generator](https://github.com/rengler33/workout-mp3-generator) (WIP)
+
+I made a command line tool for creating audio files that contain workout instructions at specified intervals. 
+
+You can provide an exercise descriptions, time intervals, and optionally the number of reps you need to complete. An audio file will be created for you that serves as your workout instructions and timer.
+
+
+### [telegram-to-cloud](https://github.com/rengler33/telegram-to-cloud) (WIP)
+
+I'm working on a telegram bot that can upload files sent to it to AWS or Google Drive.
