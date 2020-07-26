@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi :) 👋
 
-### I'm an analyst and aspiring software engineer who loves to code.
+I'm an analyst and aspiring software engineer who loves to code.
 
 ## Projects
 
@@ -14,3 +14,9 @@ You can provide an exercise descriptions, time intervals, and optionally the num
 ### [telegram-to-cloud](https://github.com/rengler33/telegram-to-cloud) (WIP)
 
 I'm working on a telegram bot that can upload files sent to it to AWS or Google Drive.
+
+## Contact me
+
+Follow me on [twitter](https://www.twitter.com/rengler33) if you want to learn about automating with software!
+
+The best way to contact me is on twitter or through e-mail: rengler33@gmail.com
