@@ -2,6 +2,8 @@
 
 I'm an analyst and aspiring software engineer who loves to code.
 
+Visit [my blog](https://www.rkengler.com) if you want to learn about automating things with code!
+
 ## Projects
 
 ### [workout-mp3-generator](https://github.com/rengler33/workout-mp3-generator) (WIP)
@@ -21,4 +23,4 @@ Follow me on [twitter](https://www.twitter.com/rengler33) if you want to learn a
 
 The best way to contact me is on twitter or through e-mail: rengler33@gmail.com
 
-There's also my [LinkedIn](https://www.linkedin.com/in/rengler33/)
+Last but not least, [LinkedIn](https://www.linkedin.com/in/rengler33/) if you'd like to contact me about job opportunities.
