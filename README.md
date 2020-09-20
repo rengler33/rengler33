@@ -2,9 +2,14 @@
 
 I'm an analyst and aspiring software engineer who loves to code.
 
-Visit [my blog](https://www.rkengler.com) if you want to learn about automating things with code!
+I have a young blog [here](https://www.rkengler.com) where I'm attempting to learn in public.
 
 ## Projects
+
+### [cookiecutter-python-container-dev](https://github.com/rengler33/python_docker_starter) (WIP)
+
+I'm currently experimenting with Docker container development. This involves setting up my development environment entirely inside a Docker container. In theory, this should make the process of managing the development environment "simple" for myself and any collaborators. As always, with Docker, it never feels "simple". In any case, if I like this setup I will flesh out the rest of this project into a cookiecutter template for python projects, complete with black & isort auto-formatting, mypy and pytest checks, and pre-commit hooks for good development behaviors.
+
 
 ### [workout-mp3-generator](https://github.com/rengler33/workout-mp3-generator) (WIP)
 
