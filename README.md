@@ -1,6 +1,6 @@
 ## Hi :) 👋
 
-I'm an analyst and aspiring software engineer who loves to code.
+I'm a software engineer who loves to code with python.
 
 I have a young blog [here](https://www.rkengler.com) where I'm attempting to learn in public.
 
