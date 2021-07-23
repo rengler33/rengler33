@@ -1,8 +1,6 @@
 ## Hi :) 👋
 
-I'm a software engineer who loves to code with python.
-
-I have a young blog [here](https://www.rkengler.com) where I'm attempting to learn in public.
+I'm a software engineer who loves to code with python. Currently learning Elixir.
 
 ## Projects
 
@@ -26,4 +24,4 @@ Personal preferences for a production-ready deployment of Django projects.
 
 ## Contact me
 
-The best way to contact me is through e-mail: rengler33@gmail.com or [LinkedIn](https://www.linkedin.com/in/rengler33/).
+The best way to contact me is through [LinkedIn](https://www.linkedin.com/in/rengler33/).
