@@ -2,6 +2,10 @@
 
 I'm a software engineer who loves to code with python. Currently learning Elixir.
 
+## [Python OOP notes](https://github.com/rengler33/python_oop)
+
+A growing collection of notes I'm taking about design patterns in python.
+
 ## Projects
 
 
