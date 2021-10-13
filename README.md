@@ -1,6 +1,6 @@
 ## Hi :) 👋
 
-I'm a software engineer who loves to code with python. Currently studying functional programming style learning Elixir.
+I'm a software engineer who loves to code with python, but I'm also studying the functional programming style and learning Elixir.
 
 ## [Python OOP notes](https://github.com/rengler33/python_oop)
 
