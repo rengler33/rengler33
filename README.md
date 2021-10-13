@@ -9,11 +9,10 @@ A growing collection of notes I'm taking about design patterns in python.
 ## Projects
 
 
-### [workout-mp3-generator](https://github.com/rengler33/workout-mp3-generator) (WIP)
+### [pydagorean](https://github.com/rengler33/pydagorean) (WIP)
 
-A command line tool for creating audio files that contain workout instructions at specified intervals.
+A way to construct DAGs for data pipelines. Useful for writing procedural code and encourages a functional programming style.
 
-You can provide an exercise descriptions, time intervals, and optionally the number of reps you need to complete. An audio file will be created for you that serves as your workout instructions and timer.
 
 
 ### [cookiecutter-python-container-dev](https://github.com/rengler33/python_docker_starter) (WIP)
