@@ -20,10 +20,6 @@ A way to construct DAGs for data pipelines, built on top of networkx. Useful for
 A (future) cookiecutter template for python projects, complete with black & isort auto-formatting, mypy and pytest checks, and pre-commit hooks for good development behaviors.
 
 
-### [cookiecutter-django-psql-docker](https://github.com/rengler33/cookiecutter-django-psql-docker) (WIP)
-
-Personal preferences for a production-ready deployment of Django projects.
-
 
 ## Contact me
 
