@@ -13,7 +13,7 @@ A growing collection of notes I'm taking about design patterns in python.
 
 ### [pydagorean](https://github.com/rengler33/pydagorean) (WIP)
 
-A way to construct DAGs for data pipelines, built on top of networkx. Useful for writing procedural code and encourages a functional programming style.
+A way to construct DAGs for data pipelines, built on top of networkx. Useful for writing declarative code and encourages a functional programming style.
 
 
 
