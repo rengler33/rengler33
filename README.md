@@ -11,12 +11,6 @@ A growing collection of notes I'm taking about design patterns in python.
 ## Projects
 
 
-### [pydagorean](https://github.com/rengler33/pydagorean) (WIP)
-
-A way to construct DAGs for data pipelines, built on top of networkx. Useful for writing declarative code and encourages a functional programming style.
-
-
-
 ### [cookiecutter-python-container-dev](https://github.com/rengler33/python_docker_starter) (WIP)
 
 A (future) cookiecutter template for python projects, complete with black & isort auto-formatting, mypy and pytest checks, and pre-commit hooks for good development behaviors.
