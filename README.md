@@ -4,7 +4,7 @@ I'm a software engineer who loves to code with Python & Elixir. Areas of work in
 
 ## Projects
 
-### Game of [Tafl](https://github.com/rengler33/tafl) (WIP)
+### [Game of Tafl](https://github.com/rengler33/tafl) (WIP)
 
 An ancient game, also known as Hnefatafl or "viking's chess" written in Elixir.
 
