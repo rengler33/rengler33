@@ -1,6 +1,13 @@
 ## Hi :) 👋
 
-I'm a software engineer who loves to code with python. I'm also studying the functional programming style while learning Elixir. Other areas of study include ETL/ELT, data warehousing, AWS, terraform, and more.
+I'm a software engineer who loves to code with Python & Elixir. Areas of work include Django, ETL/ELT, data warehousing, AWS, terraform, and more.
+
+## Projects
+
+### Game of [Tafl](https://github.com/rengler33/tafl) (WIP)
+
+An ancient game, also known as Hnefatafl or "viking's chess" written in Elixir.
+
 
 ## Notes
 
