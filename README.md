@@ -6,7 +6,7 @@ I'm a software engineer who loves to code with Python & Elixir. Areas of work in
 
 ### [Game of Tafl](https://github.com/rengler33/tafl) (WIP)
 
-An ancient game, also known as Hnefatafl or "viking's chess" written in Elixir.
+An ancient game, also known as Hnefatafl or "viking's chess" written in Elixir. Includes a text client and will include a Phoenix client in the future.
 
 
 ## Notes
