@@ -16,7 +16,7 @@ An ancient game, also known as Hnefatafl or "viking's chess" written in Elixir. 
 A growing collection of notes I'm taking about OOP design patterns in python.
 
 
-## Concise Concepts
+## Concise Concept Demonstrations
 
 ### [minimal-py-poetry](https://github.com/rengler33/minimal-py-poetry)
 
