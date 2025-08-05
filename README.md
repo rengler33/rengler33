@@ -16,13 +16,6 @@ An ancient board game, also known as Hnefatafl or "viking's chess", written in E
 A growing collection of notes I'm taking about OOP design patterns in python.
 
 
-## Concise Concept Demonstrations
-
-### [minimal-py-poetry](https://github.com/rengler33/minimal-py-poetry)
-
-An attempt to capture docker's multi-stage build best practices while using poetry. Uses a "builder" image to install all requirements via poetry and copies them to tiny production image. Also creates a development image that still has build tools available but doesn't become part of the final image.
-
-
 ## Contact me
 
 The best way to contact me is through [LinkedIn](https://www.linkedin.com/in/rengler33/).
